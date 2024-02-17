@@ -106,14 +106,11 @@ input {
 .Moniter {
     height:100%;
     width:100%;
+    background-color: #222f3d;
+    color:white;
     display: none;
 }
 
-body {
-    background-color: #222f3d;
-    color:white;
-}  
-  
 .sandbox {
   display: flex;
   flex-direction: column;
